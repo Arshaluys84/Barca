@@ -1,0 +1,16 @@
+.header{
+  grid-area: header;
+  background-color: bisque;
+  }
+.headerImg img{
+  width: 40px;
+  background-color: aqua;
+}
+
+.loginBlock{
+color:white;
+}
+.loginBlock button{
+ height: 4%;
+ color:black;
+  }

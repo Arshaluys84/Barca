@@ -1,0 +1,17 @@
+
+.item{
+
+padding-top: 5px;
+}
+.item .avatar{
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+  
+}
+
+.item .like {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+}

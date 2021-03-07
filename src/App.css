@@ -1,0 +1,21 @@
+.App{
+  margin :0 auto;
+  display: grid;
+  grid-template-areas:
+  "header header" 
+  "n c" ;
+  grid-template-rows: 90px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 5px;
+  
+}
+
+.AppContent{
+  grid-area: c;
+  background-color: dodgerblue;
+ 
+}
+.preloader img{
+  width: 100%;
+  height: 100%;
+}

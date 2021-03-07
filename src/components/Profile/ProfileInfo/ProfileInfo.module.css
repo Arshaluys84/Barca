@@ -1,0 +1,16 @@
+
+.item{
+  color:white;
+}
+.description{
+  padding: 10px;
+}
+ .profileImg {
+  display: grid;
+  justify-content: center;
+  background-color: white;
+
+}
+.status{
+  font-size: larger;
+}

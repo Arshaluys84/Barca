@@ -1,0 +1,11 @@
+ .error textarea, .error input{
+    border:solid red 2px;
+}
+.error span{
+    color:red;
+    font-weight: bold;
+}
+.summeryError{
+    color:red;
+    font-size: larger;
+}
