@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/barca/static/css/main.fa6e69f9.chunk.css",
-    "main.js": "/barca/static/js/main.7a6ec864.chunk.js",
-    "main.js.map": "/barca/static/js/main.7a6ec864.chunk.js.map",
-    "runtime-main.js": "/barca/static/js/runtime-main.e30bd800.js",
-    "runtime-main.js.map": "/barca/static/js/runtime-main.e30bd800.js.map",
-    "static/js/2.488ec8d2.chunk.js": "/barca/static/js/2.488ec8d2.chunk.js",
-    "static/js/2.488ec8d2.chunk.js.map": "/barca/static/js/2.488ec8d2.chunk.js.map",
-    "static/css/3.de79feb5.chunk.css": "/barca/static/css/3.de79feb5.chunk.css",
-    "static/js/3.1f52ee68.chunk.js": "/barca/static/js/3.1f52ee68.chunk.js",
-    "static/js/3.1f52ee68.chunk.js.map": "/barca/static/js/3.1f52ee68.chunk.js.map",
+    "main.css": "/barca/static/css/main.93d14fca.chunk.css",
+    "main.js": "/barca/static/js/main.ac7fb2a0.chunk.js",
+    "main.js.map": "/barca/static/js/main.ac7fb2a0.chunk.js.map",
+    "runtime-main.js": "/barca/static/js/runtime-main.2981480e.js",
+    "runtime-main.js.map": "/barca/static/js/runtime-main.2981480e.js.map",
+    "static/css/2.4ee63354.chunk.css": "/barca/static/css/2.4ee63354.chunk.css",
+    "static/js/2.5eaedfba.chunk.js": "/barca/static/js/2.5eaedfba.chunk.js",
+    "static/js/2.5eaedfba.chunk.js.map": "/barca/static/js/2.5eaedfba.chunk.js.map",
+    "static/css/3.34982303.chunk.css": "/barca/static/css/3.34982303.chunk.css",
+    "static/js/3.45a5de30.chunk.js": "/barca/static/js/3.45a5de30.chunk.js",
+    "static/js/3.45a5de30.chunk.js.map": "/barca/static/js/3.45a5de30.chunk.js.map",
     "index.html": "/barca/index.html",
-    "static/css/3.de79feb5.chunk.css.map": "/barca/static/css/3.de79feb5.chunk.css.map",
-    "static/css/main.fa6e69f9.chunk.css.map": "/barca/static/css/main.fa6e69f9.chunk.css.map",
-    "static/js/2.488ec8d2.chunk.js.LICENSE.txt": "/barca/static/js/2.488ec8d2.chunk.js.LICENSE.txt",
+    "static/css/2.4ee63354.chunk.css.map": "/barca/static/css/2.4ee63354.chunk.css.map",
+    "static/css/3.34982303.chunk.css.map": "/barca/static/css/3.34982303.chunk.css.map",
+    "static/css/main.93d14fca.chunk.css.map": "/barca/static/css/main.93d14fca.chunk.css.map",
+    "static/js/2.5eaedfba.chunk.js.LICENSE.txt": "/barca/static/js/2.5eaedfba.chunk.js.LICENSE.txt",
     "static/media/anonim.3fb8c323.png": "/barca/static/media/anonim.3fb8c323.png",
     "static/media/userPhoto.aa75b763.jpg": "/barca/static/media/userPhoto.aa75b763.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e30bd800.js",
-    "static/js/2.488ec8d2.chunk.js",
-    "static/css/main.fa6e69f9.chunk.css",
-    "static/js/main.7a6ec864.chunk.js"
+    "static/js/runtime-main.2981480e.js",
+    "static/css/2.4ee63354.chunk.css",
+    "static/js/2.5eaedfba.chunk.js",
+    "static/css/main.93d14fca.chunk.css",
+    "static/js/main.ac7fb2a0.chunk.js"
   ]
 }
